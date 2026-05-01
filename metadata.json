@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Live Translator",
+  "description": "Real-time multilingual translation app using Gemini 3.1 Live API with low-latency audio response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
